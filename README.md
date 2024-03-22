@@ -6,13 +6,13 @@ This project is a contest leaderboard management service designed to handle CRUD
 Requirements
 - Java 8 or higher
 - Spring Boot
-- Maven
+- Gradle
 
 Installation
 1. Clone the repository:
    git clone https://github.com/anmolgarg433/StarterApp
 2. Navigate to the project directory:
-   cd contest-leaderboard-service
+   cd starterapp
 3. Build the project using Maven:
    mvn clean install
 4. Run the application:
