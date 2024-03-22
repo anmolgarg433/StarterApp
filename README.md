@@ -10,7 +10,7 @@ Requirements
 
 Installation
 1. Clone the repository:
-   git clone https://github.com/anmolgarg433/contest-leaderboard-service.git
+   git clone https://github.com/anmolgarg433/StarterApp
 2. Navigate to the project directory:
    cd contest-leaderboard-service
 3. Build the project using Maven:
